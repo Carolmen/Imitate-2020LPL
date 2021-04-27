@@ -1,0 +1,54 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	 text-decoration: none;
+}
+.container{
+	width: 100%;
+	 min-height: 100vh;
+	 background-image: url(../img/jianbian.jpg);
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 display: flex;
+	 justify-content: center;
+	 align-items: center;
+	 position: relative;
+	 flex-direction: column;
+}
+.container h1{
+	color: #000000;
+	font-size: 100px;
+	letter-spacing: 40px;
+	padding-left: 40px;
+	z-index: 1;
+	
+}
+.container p{
+	color: #000000;
+	font-size: 50px;
+	letter-spacing: 10px;
+	padding-left: 10px;
+	margin-top: 10px;
+}
+.container::before{
+	content: " ";
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-image: linear-gradient(90deg,#e74c3c,#f39c12,#f1c40f,#2ecc71,#1abc9c,#3498db,#9b59b6,#e74c3c);
+	opacity: 0.35;
+	background-size: 600%;
+	animation: a 40s linear infinite;
+}
+@keyframes a{
+	0%{
+		background-position: 0%;
+	}
+	100%{
+		background-position: 600%;
+	}
+}/*动画设置*/

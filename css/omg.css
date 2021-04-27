@@ -1,0 +1,169 @@
+.father{
+	background-color: #000000;
+	width: 100%;
+	height: 350px;
+	position: relative;
+}
+.son{
+	position: relative;
+	top: 30px;
+	left: 10px;
+}
+.son h1{
+	color: #FFFFFF;	
+}
+.son h4{
+	color: #FFFFFF;	
+}
+.son p{
+	color: #FFFFFF;
+	text-indent: 2em;
+}
+.weizhi{
+	font-size: 20px;
+}
+.wenben{
+	background-color: #f1f1f1;
+}
+.class1{
+	width: 150px;
+	height: 100px;
+	text-align: center;
+	background-color: #FFFFFF;
+	font-size: 30px;
+	float: left;
+	margin: 50px;
+}
+.class1{
+	width: 150px;
+	height: 180px;
+	text-align: center;
+	background-color: #FFFFFF;
+	font-size: 30px;
+	float: left;
+	margin: 20px;
+}
+.class1 a{
+	color: #000000;
+	text-decoration: none;
+}
+.class1:hover a{
+	border: 3px solid #dfa736;
+	display: block;
+	text-decoration: none;
+	color: #000000;
+}
+.class2{
+	width: 150px;
+	height: 179px;
+	text-align: center;
+	background-color: #FFFFFF;
+	font-size: 30px;
+	float: left;
+	margin: 20px 40px;
+}
+.class2 a{
+	color: #000000;
+	text-decoration: none;
+}
+.class2:hover a{
+	border: 3px solid #dfa736;
+	display: block;
+	text-decoration: none;
+	color: #000000;
+}
+.class3{
+	width: 150px;
+	height: 180px;
+	text-align: center;
+	background-color: #FFFFFF;
+	font-size: 30px;
+	float: left;
+	margin: 20px 40px;
+}
+.class3 a{
+	color: #000000;
+	text-decoration: none;
+}
+.class3:hover a{
+	border: 3px solid #dfa736;
+	display: block;
+	text-decoration: none;
+	color: #000000;
+}
+.class4{
+	width: 150px;
+	height: 180px;
+	text-align: center;
+	background-color: #FFFFFF;
+	font-size: 30px;
+	float: left;
+	margin: 20px 40px;
+}
+.class4 a{
+	color: #000000;
+	text-decoration: none;
+}
+.class4:hover a{
+	border: 3px solid #dfa736;
+	display: block;
+	text-decoration: none;
+	color: #000000;
+}
+.class5{
+	width: 150px;
+	height: 180px;
+	text-align: center;
+	background-color: #FFFFFF;
+	font-size: 30px;
+	float: left;
+	margin: 20px 40px;
+}
+.class5 a{
+	color: #000000;
+	text-decoration: none;
+}
+.class5:hover a{
+	border: 3px solid #dfa736;
+	display: block;
+	text-decoration: none;
+	color: #000000;
+}
+.class6{
+	width: 150px;
+	height: 180px;
+	text-align: center;
+	background-color: #FFFFFF;
+	font-size: 30px;
+	float: left;
+	margin: 60px 20px;
+}
+.class6 a{
+	color: #000000;
+	text-decoration: none;
+}
+.class6:hover a{
+	border: 3px solid #dfa736;
+	display: block;
+	text-decoration: none;
+	color: #000000;
+}
+.class7{
+	width: 150px;
+	height: 180px;
+	text-align: center;
+	background-color: #FFFFFF;
+	font-size: 30px;
+	float: left;
+	margin: 60px 40px;
+}
+.class7 a{
+	color: #000000;
+	text-decoration: none;
+}
+.class7:hover a{
+	border: 3px solid #dfa736;
+	display: block;
+	text-decoration: none;
+	color: #000000;
+}

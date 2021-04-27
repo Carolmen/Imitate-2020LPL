@@ -1,0 +1,326 @@
+.biaotikuang a{
+	text-decoration: none;
+	color: #000000;
+}
+.jianjie img{
+	margin: 10px ;
+	
+}
+.wei{
+	margin: -10px;
+}
+.jianjie p{
+	font-size: 18px;
+	text-indent: 2em;
+}
+.BLG{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	margin: 0 10px 0 30px;
+	float: left;
+	text-align: center;
+} 
+.BLG img{
+	margin: 15px;
+}
+.BLG a:hover{
+	background-color: #000000;
+	display: block;
+	border-radius: 50%;
+}
+.DMO{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	margin: 0 10px;
+	float: left;
+	text-align: center;
+} 
+.DMO img{
+	margin: 15px;
+}
+.DMO a:hover{
+	background-color: #000000;
+	display: block;
+	border-radius: 50%;
+}
+.EDG{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	margin: 0 10px;
+	float: left;
+	text-align: center;
+} 
+.EDG img{
+	margin: 15px;
+}
+.EDG a:hover{
+	background-color: #000000;
+	display: block;
+	border-radius: 50%;
+}
+.ES{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	margin: 0 10px;
+	float: left;
+	text-align: center;
+} 
+.ES img{
+	margin: 15px;
+}
+.ES a:hover{
+	background-color: #000000;
+	display: block;
+	border-radius: 50%;
+}
+.FPX{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	margin: 0 10px;
+	float: left;
+	text-align: center;
+} 
+.FPX img{
+	margin: 15px;
+}
+.FPX a:hover{
+	background-color: #000000;
+	display: block;
+	border-radius: 50%;
+}
+.IG{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	margin: 0 10px;
+	float: left;
+	text-align: center;
+} 
+.IG img{
+	margin: 15px;
+}
+.IG a:hover{
+	background-color: #000000;
+	display: block;
+	border-radius: 50%;
+}
+.JDG{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	margin: 0 10px;
+	float: left;
+	text-align: center;
+} 
+.JDG img{
+	margin: 15px;
+}
+.JDG a:hover{
+	background-color: #000000;
+	display: block;
+	border-radius: 50%;
+}
+.LGD{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	margin: 0 10px;
+	float: left;
+	text-align: center;
+} 
+.LGD img{
+	margin: 15px;
+}
+.LGD a:hover{
+	background-color: #000000;
+	display: block;
+	border-radius: 50%;
+}
+.LNG{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	margin: 0 10px;
+	float: left;
+	text-align: center;
+} 
+.LNG img{
+	margin: 15px;
+}
+.LNG a:hover{
+	background-color: #000000;
+	display: block;
+	border-radius: 50%;
+}
+.OMG{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	margin: 30px 15px 0 50px;
+	float: left;
+	text-align: center;
+} 
+.OMG img{
+	margin: 15px;
+}
+.OMG a:hover{
+	background-color: #000000;
+	display: block;
+	border-radius: 50%;
+}
+.RNG{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	margin: 30px 15px;
+	float: left;
+	text-align: center;
+} 
+.RNG img{
+	margin: 15px;
+}
+.RNG a:hover{
+	background-color: #000000;
+	display: block;
+	border-radius: 50%;
+}
+.RW{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	margin: 30px 15px;
+	float: left;
+	text-align: center;
+} 
+.RW img{
+	margin: 15px;
+}
+.RW a:hover{
+	background-color: #000000;
+	display: block;
+	border-radius: 50%;
+}
+.SN{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	margin: 30px 15px;
+	float: left;
+	text-align: center;
+} 
+.SN img{
+	margin: 15px;
+}
+.SN a:hover{
+	background-color: #000000;
+	display: block;
+	border-radius: 50%;
+}
+.TES{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	margin: 30px 15px;
+	float: left;
+	text-align: center;
+} 
+.TES img{
+	margin: 15px;
+}
+.TES a:hover{
+	background-color: #000000;
+	display: block;
+	border-radius: 50%;
+}
+.V5{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	margin: 30px 15px;
+	float: left;
+	text-align: center;
+} 
+.V5 img{
+	margin: 15px;
+}
+.V5 a:hover{
+	background-color: #000000;
+	display: block;
+	border-radius: 50%;
+}
+.VG{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	margin:30px 15px;
+	float: left;
+	text-align: center;
+} 
+.VG img{
+	margin: 15px;
+}
+.VG a:hover{
+	background-color: #000000;
+	display: block;
+	border-radius: 50%;
+}
+.WE{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: #FFFFFF;
+	margin: 30px 15px;
+	float: left;
+	text-align: center;
+} 
+.WE img{
+	margin: 15px;
+}
+.WE a:hover{
+	background-color: #000000;
+	display: block;
+	border-radius: 50%;
+}
+.dibu{
+	background-color: #5b5b5b;
+	width: 100%;
+	height: 150px;
+	position: absolute;
+}
+.dibu a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.dibu p{
+	color: #FFFFFF;
+	text-align: center;
+}
+.img1{
+	margin: 0 560px;
+	position: relative;
+	}
+.img2{
+	margin:-80px 660px;
+	position: relative;
+}
